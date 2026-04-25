@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+# env
+.env
+.env.local
+
+# next
+.next
+out
+
+# logs
+logs
+*.log
+
+# OS
+.DS_Store
+
+# prisma
+prisma/migrations
+
+# build
+dist
